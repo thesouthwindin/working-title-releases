@@ -1,0 +1,11 @@
+{
+  "version": "0.7.2",
+  "notes": "\u2022 Updates download much faster, with a progress bar, and the app restarts by itself when it\u2019s done\n\u2022 The update question comes up a few seconds after you open the app\n\u2022 Check for Updates\u2026 shows that it\u2019s checking, and tells you when you\u2019re up to date",
+  "pub_date": "2026-11-06T20:59:31Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDBjeGdxSThCVEF0cU1FRUVJeWh6Ny9HVVRqdmdxTWlPMG5SZ0FWRldsZFdhZUtjYzhRc2lZMzhFN0NHSHdUYzhvcVFlWVg1TWt6SS9WWVVMZHU4UWpBcTRMVGpEeFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTk4NzY2CWZpbGU6V29ya2luIFRpdGxlLmFwcC50YXIuZ3oJdmVyc2lvbjowLjcuMgpyYnloTlJVVEJZWm9nY3RjWmUyQTVFcEZOVk5MdElza0dJZklCVEk2ZDVaODFYTVRYZll1NVIvd2IwQWc5c0l1MER4SVVNM0tKZS9VRG15NWFiMFVDZz09Cg==",
+      "url": "https://cdn.jsdelivr.net/gh/thesouthwindin/working-title-releases@v0.7.2/updates/Workin-Title-0.7.2.app.tar.gz"
+    }
+  }
+}
