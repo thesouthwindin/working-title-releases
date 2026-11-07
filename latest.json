@@ -1,11 +1,11 @@
 {
-  "version": "0.7.3",
-  "notes": "\u2022 When an update has downloaded, choose Restart Now \u2014 or Later, and it installs when you quit\n\u2022 Restart Now shows a small Updating window with a progress bar, then opens the new version\n\u2022 Video tour thumbnails show a picture of each chapter",
-  "pub_date": "2026-11-07T05:32:20Z",
+  "version": "0.7.4",
+  "notes": "\u2022 Updates are checked quietly: a small \u201cUpdate available\u201d button appears instead of a pop-up\n\u2022 Settings \u2192 Updates: turn automatic update checks on or off, or check now",
+  "pub_date": "2026-11-07T05:41:49Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDBjeGdxSThCVEFpdFJCbDRwL0NHUFcwdCtnWjZTVG5pSERBSlBJRXRyNlN3Wm9wdm03N0I0MmlESE5rMjVkcWI0K2RtcWxaRzBpNVpvV2N0RjFCWUhOWWozK09zQUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDI5NTM0CWZpbGU6V29ya2luIFRpdGxlLmFwcC50YXIuZ3oJdmVyc2lvbjowLjcuMwpRSzRTTW5oOFB2cEhpNWRmL2x6U0ZvdHQxaUR5TUZVdmJUdXJ6NysxcXFkZFVuaEk1bFBKU1luSThYZmVrSG9QYmZrZ2prZ0hCN0FjTnE2ZEo3UkhBUT09Cg==",
-      "url": "https://cdn.jsdelivr.net/gh/thesouthwindin/working-title-releases@v0.7.3/updates/Workin-Title-0.7.3.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDBjeGdxSThCVEhEaEVjdnlZWURvUi9ubENtZ2VQTlU3Ni9FUkY2cThvTWJqUmJQOEpEYURYMzJuL1VzSU8rTm55Nm5DaDh3Y2dmZnlkZ3BPVWM0UUpES0ZsNHJzZ3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDMwMTA1CWZpbGU6V29ya2luIFRpdGxlLmFwcC50YXIuZ3oJdmVyc2lvbjowLjcuNApONjMxL25wbWtsN25IcVowTjQyQU1ZNnR6YUIreW0yaE5ZNGZ0QVNzbFZPOTBiN0lreFM4QTNWNnFPOFAvLzNyejZPQVMrUUY5M082RDhZZjFIT0xDUT09Cg==",
+      "url": "https://cdn.jsdelivr.net/gh/thesouthwindin/working-title-releases@v0.7.4/updates/Workin-Title-0.7.4.app.tar.gz"
     }
   }
 }
