@@ -1,11 +1,11 @@
 {
-  "version": "0.7.4",
-  "notes": "\u2022 Updates are checked quietly: a small \u201cUpdate available\u201d button appears instead of a pop-up\n\u2022 Settings \u2192 Updates: turn automatic update checks on or off, or check now",
-  "pub_date": "2026-11-07T05:41:49Z",
+  "version": "0.8.0",
+  "notes": "\u2022 New icons throughout, and sidebar buttons that stay put when you hide a sidebar\n\u2022 Text size in Settings \u2192 Appearance: Smaller, Small, Medium or Large\n\u2022 Colour palettes on boards: every colour from an image on one card, add or remove swatches\n\u2022 Duplicate scripts and cards from the right-click menu; scene colours as a row of dots\n\u2022 Board cards follow the mouse and connect reliably after the first drag\n\u2022 New projects start with an outline and a World building board; outlines sit on paper\n\u2022 Analytics is now Progress; your reminders live in Settings \u2192 Goals\n\u2022 Safer: scripts from other people can\u2019t run code, saves can\u2019t be cut off half-way, and if a file changes in another app while you edit, both versions are kept\n\u2022 Fonts are built in, so pages break the same offline",
+  "pub_date": "2026-11-09T10:47:29Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDBjeGdxSThCVEhEaEVjdnlZWURvUi9ubENtZ2VQTlU3Ni9FUkY2cThvTWJqUmJQOEpEYURYMzJuL1VzSU8rTm55Nm5DaDh3Y2dmZnlkZ3BPVWM0UUpES0ZsNHJzZ3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDMwMTA1CWZpbGU6V29ya2luIFRpdGxlLmFwcC50YXIuZ3oJdmVyc2lvbjowLjcuNApONjMxL25wbWtsN25IcVowTjQyQU1ZNnR6YUIreW0yaE5ZNGZ0QVNzbFZPOTBiN0lreFM4QTNWNnFPOFAvLzNyejZPQVMrUUY5M082RDhZZjFIT0xDUT09Cg==",
-      "url": "https://cdn.jsdelivr.net/gh/thesouthwindin/working-title-releases@v0.7.4/updates/Workin-Title-0.7.4.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDBjeGdxSThCVE9VU3A4aVF0ZjgyY1FZQlJKUkVXZlp5WTQ4RHNUUjZIUU1uNGtlMzZpdVp5RFlvbmNmOW12N0lUaXpxa3RTcWU3WDFtZEFzeFZiNTcvZ1U0c0tJdFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjIxMjQyCWZpbGU6V29ya2luIFRpdGxlLmFwcC50YXIuZ3oJdmVyc2lvbjowLjguMApJa2c2enFXWWhkemw2K2tRUkw5L0JxQmhoM3F1SWZsQTh2TmVPTzFKcmlkckhJVnFJUWtFa0NwVXdvUm9qMHFHenNlRXNyN25yM3ZjUEdsbTF4bXNDZz09Cg==",
+      "url": "https://cdn.jsdelivr.net/gh/thesouthwindin/working-title-releases@v0.8.0/updates/Workin-Title-0.8.0.app.tar.gz"
     }
   }
 }
