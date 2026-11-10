@@ -1,11 +1,11 @@
 {
-  "version": "0.9.0",
-  "notes": "The last beta before 1.0.\nFocus, Music and Look sit with the right sidebar; its toggle stays at the far right.\nAdd beat always makes a new beat; Add scene from script\u2026 lets you pick the script and scene.\nOne note editor at a time, striped notes, a pencil to edit.\nInterface size and Script size are simple menus now.\nSofter colours for scenes, notes and the outline.",
-  "pub_date": "2026-11-10T04:52:38Z",
+  "version": "0.9.1",
+  "notes": "The right sidebar button stays in place when the sidebar opens and closes.\nSaved notes have clearer striped rows.",
+  "pub_date": "2026-11-10T05:04:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDBjeGdxSThCVEpNeXk2eWN4Z2FBYXZqTDdHS1U3dnFsYkVCd012Zjd3YjBUVkU2QVFVVFUwaUxLMmhCclJzMkRXbmFkSlZGSS8rOE0vWXRqVnJBQVM2UFF3NG1MNFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mjg2MzUzCWZpbGU6V29ya2luIFRpdGxlLmFwcC50YXIuZ3oJdmVyc2lvbjowLjkuMApiUmtuZHp6Y2llbUVYNXFQTEtMQStENzduNW02TlhvVzUvL2lMZ0pNUWkyQllWenhjYVdBcE9NL2twWUhBRVpIaFZkLzNNV1Jyc2xidnhHd0dyL1FBZz09Cg==",
-      "url": "https://cdn.jsdelivr.net/gh/thesouthwindin/working-title-releases@v0.9.0/updates/Workin-Title-0.9.0.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDBjeGdxSThCVENvSXVSNkowbFd3aHM1eHRhakNwRHBXb1g2dDZJU3k0VzlXMXd2VlBraWdjTC9CSjI0Q1B6YjFGd01sZWhsNlJ6VS9VeVVxcEhhY1IzQmt0czVzUUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mjg3MDM1CWZpbGU6V29ya2luIFRpdGxlLmFwcC50YXIuZ3oJdmVyc2lvbjowLjkuMQpzbDBBQU1Cb3hQbkhGYkVqWG5Xb09nU3FOcGpFTHducjBtZ2R2NEJ3Uy9hRXJndEp1SjJ0K1lqb1FGaDNyRUp4ZHYwb0VTT3VFUjRvWDV3NXBKeVlDUT09Cg==",
+      "url": "https://cdn.jsdelivr.net/gh/thesouthwindin/working-title-releases@v0.9.1/updates/Workin-Title-0.9.1.app.tar.gz"
     }
   }
 }
