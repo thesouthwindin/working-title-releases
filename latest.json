@@ -1,11 +1,11 @@
 {
-  "version": "0.9.1",
-  "notes": "The right sidebar button stays in place when the sidebar opens and closes.\nSaved notes have clearer striped rows.",
-  "pub_date": "2026-11-10T05:04:00Z",
+  "version": "0.9.2",
+  "notes": "Music and ambience never start by themselves \u2014 only when you press play.\nThe footer shows \u201cAmbience\u201d or \u201cMix\u201d with the song title, to match what is playing.\nSaved notes share one shade, and an opened note closes when you click away.",
+  "pub_date": "2026-11-10T06:10:40Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDBjeGdxSThCVENvSXVSNkowbFd3aHM1eHRhakNwRHBXb1g2dDZJU3k0VzlXMXd2VlBraWdjTC9CSjI0Q1B6YjFGd01sZWhsNlJ6VS9VeVVxcEhhY1IzQmt0czVzUUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mjg3MDM1CWZpbGU6V29ya2luIFRpdGxlLmFwcC50YXIuZ3oJdmVyc2lvbjowLjkuMQpzbDBBQU1Cb3hQbkhGYkVqWG5Xb09nU3FOcGpFTHducjBtZ2R2NEJ3Uy9hRXJndEp1SjJ0K1lqb1FGaDNyRUp4ZHYwb0VTT3VFUjRvWDV3NXBKeVlDUT09Cg==",
-      "url": "https://cdn.jsdelivr.net/gh/thesouthwindin/working-title-releases@v0.9.1/updates/Workin-Title-0.9.1.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDBjeGdxSThCVEpNNGpOejJERG5lZTdSVExpRFdGVXJjMkYzY29hS3ZyMWxLZnY5K2txK2tlTDlHMGxaT2ZwTWZyYXVmZ29Oc3FtWXIzTHQ1MUpLK1p4UVBUcDd6TEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjkxMDM1CWZpbGU6V29ya2luIFRpdGxlLmFwcC50YXIuZ3oJdmVyc2lvbjowLjkuMgpIYUhyRzNaM1ZTVXpoSTBscVpRU2haTG92RGJFRDJvbmtHQ1JFZ09wdm1KeE5rRG11S1VXS0J3eHNFdldFN0V1ckVobS9Kb3JFUzdIODhjc2UrVTFEUT09Cg==",
+      "url": "https://cdn.jsdelivr.net/gh/thesouthwindin/working-title-releases@v0.9.2/updates/Workin-Title-0.9.2.app.tar.gz"
     }
   }
 }
