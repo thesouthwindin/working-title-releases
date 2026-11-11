@@ -1,11 +1,11 @@
 {
-  "version": "0.9.2",
-  "notes": "Music and ambience never start by themselves \u2014 only when you press play.\nThe footer shows \u201cAmbience\u201d or \u201cMix\u201d with the song title, to match what is playing.\nSaved notes share one shade, and an opened note closes when you click away.",
-  "pub_date": "2026-11-10T06:10:40Z",
+  "version": "0.9.3",
+  "notes": "- Everything opens in one tab now; \u2318-click opens a new tab. Back and Forward move through what you opened.\n- The New button shows only what fits the section you're in.\n- Every project has one Character\u2019s Map, ready from the start.\n- Rename a character in their note and the script and map follow.\n- Notes and Review stay in the right sidebar in every section.\n- Outlines have a calm grey background (choose another in the right sidebar) and no longer drift off into empty space.\n- A page ruler under the timeline; columns keep the height you give them; Show in Finder on any file.\n- A new mono app icon.",
+  "pub_date": "2026-11-11T18:19:46Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDBjeGdxSThCVEpNNGpOejJERG5lZTdSVExpRFdGVXJjMkYzY29hS3ZyMWxLZnY5K2txK2tlTDlHMGxaT2ZwTWZyYXVmZ29Oc3FtWXIzTHQ1MUpLK1p4UVBUcDd6TEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjkxMDM1CWZpbGU6V29ya2luIFRpdGxlLmFwcC50YXIuZ3oJdmVyc2lvbjowLjkuMgpIYUhyRzNaM1ZTVXpoSTBscVpRU2haTG92RGJFRDJvbmtHQ1JFZ09wdm1KeE5rRG11S1VXS0J3eHNFdldFN0V1ckVobS9Kb3JFUzdIODhjc2UrVTFEUT09Cg==",
-      "url": "https://cdn.jsdelivr.net/gh/thesouthwindin/working-title-releases@v0.9.2/updates/Workin-Title-0.9.2.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDBjeGdxSThCVEFOcjZDZjIxN2FPUFdMTndMeE5VTlBKM2xXV0lMZTA0VWp4bW9CVWpYOURJVVNxNDZaeDFxNnNtSUxaZDYrYS9BcGk4N00zcDBub2JSb3RGNmFpckE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDIxMTgxCWZpbGU6V29ya2luIFRpdGxlLmFwcC50YXIuZ3oJdmVyc2lvbjowLjkuMwpVdHVZclNpTFFTS0puc0NnMXpQOGlrL2tybDNoRXBydEMyWXJ0RHp6Rlg5a2tyNFZFY2wvbUtFaW10SmphMVhPY2VjSEswdHhvY1ZDbUR2VHRuc3BBQT09Cg==",
+      "url": "https://cdn.jsdelivr.net/gh/thesouthwindin/working-title-releases@v0.9.3/updates/Workin-Title-0.9.3.app.tar.gz"
     }
   }
 }
