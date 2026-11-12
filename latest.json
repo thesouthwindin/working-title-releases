@@ -1,11 +1,11 @@
 {
-  "version": "0.9.3",
-  "notes": "- Everything opens in one tab now; \u2318-click opens a new tab. Back and Forward move through what you opened.\n- The New button shows only what fits the section you're in.\n- Every project has one Character\u2019s Map, ready from the start.\n- Rename a character in their note and the script and map follow.\n- Notes and Review stay in the right sidebar in every section.\n- Outlines have a calm grey background (choose another in the right sidebar) and no longer drift off into empty space.\n- A page ruler under the timeline; columns keep the height you give them; Show in Finder on any file.\n- A new mono app icon.",
-  "pub_date": "2026-11-11T18:19:46Z",
+  "version": "0.9.4",
+  "notes": "\u2022 Notes write like Obsidian: one view, formatting appears as you type\n\u2022 Notes live as files in a Notes folder: New note on top, a grid view, colours tint the whole note\n\u2022 A new timeline strip: every scene by its real length over a page ruler, with total pages and minutes\n\u2022 Right-click menus are real Mac menus (colours stay one row of dots)\n\u2022 Fixed: dropping a picture on a character page no longer takes over the app\n\u2022 Relationships: pick someone in a character's document \u2014 a Relationship card appears on the map, and both documents list it; edit it on either side\n\u2022 Clicking a character on the map takes its ring of cards along; cards sit evenly round it\n\u2022 Acts resize smoothly with their beats, and a single act stays where you drop it\n\u2022 Beats sent to the script: you start writing right under the first one\n\u2022 A zoom slider for the page, board or note you're in (\u2318 + / \u2212 on the number pad too)\n\u2022 Script header: Title page with Write / Page / Cards, element menu in the middle, one click (\u2325\u23180) for the page alone\n\u2022 A cleaner welcome window: New Project and Open\u2026 on the left, your recent projects on the right\n\u2022 Calmer sliders and switches, no music glow; play doesn't wake ambience you switched off",
+  "pub_date": "2026-11-12T13:24:24Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDBjeGdxSThCVEFOcjZDZjIxN2FPUFdMTndMeE5VTlBKM2xXV0lMZTA0VWp4bW9CVWpYOURJVVNxNDZaeDFxNnNtSUxaZDYrYS9BcGk4N00zcDBub2JSb3RGNmFpckE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDIxMTgxCWZpbGU6V29ya2luIFRpdGxlLmFwcC50YXIuZ3oJdmVyc2lvbjowLjkuMwpVdHVZclNpTFFTS0puc0NnMXpQOGlrL2tybDNoRXBydEMyWXJ0RHp6Rlg5a2tyNFZFY2wvbUtFaW10SmphMVhPY2VjSEswdHhvY1ZDbUR2VHRuc3BBQT09Cg==",
-      "url": "https://cdn.jsdelivr.net/gh/thesouthwindin/working-title-releases@v0.9.3/updates/Workin-Title-0.9.3.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDBjeGdxSThCVEQzS2RJeVBveEIrOGxBenRoNnhnbWg3MStMdk95NkpxMmYzeXA3cTNaMjJPZU5jWHY2WkQyQVZrWE0zanFZMnc5Qkorei9MaWpocXl6bG9aOFY1Ymc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDg5ODU5CWZpbGU6V29ya2luIFRpdGxlLmFwcC50YXIuZ3oJdmVyc2lvbjowLjkuNAp5NEVaMWFnbU1rN21EMkNET3VWK0xJZEJRSEE4SVI5cVZXVHJ6d0xvT0xyZEhjaVpqa1dPd2FHR3l3aG4zbitKWGxxeHgycmlFd05vWk10S0FSUG5DZz09Cg==",
+      "url": "https://cdn.jsdelivr.net/gh/thesouthwindin/working-title-releases@v0.9.4/updates/Workin-Title-0.9.4.app.tar.gz"
     }
   }
 }
