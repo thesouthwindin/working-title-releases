@@ -1,15 +1,15 @@
 {
-  "version": "0.9.6",
-  "notes": "Safer saving and smoother boards. Underneath is now on Windows too: getunderneath.com/beta.\n\nFixed: If a save fails, closing the tab no longer loses your words: the tab stays open until it saves\nFixed: A script changed outside Underneath just before you save is always kept as a copy\nFixed: Replace All with an empty Find box no longer changes your script\nFixed: Boards and outlines pan and zoom more smoothly, and dragging cards on boards with many links no longer stutters\nFixed: One scroll step with \u2318 zooms by a small step; the middle mouse button pans\nFixed: Zoom to fit shows every card, and the zoom slider matches the zoom\nFixed: Sticky notes keep their place after you move a note\nFixed: Document Settings remembers when you turn off \u201cDialogue, bottom of page\u201d\nChanged: The beta licence spells out how testers earn a free Underneath 1 licence",
-  "pub_date": "2026-11-20T22:42:14Z",
+  "version": "0.9.7",
+  "notes": "Voice notes, a ready-made sample project, and screenshots in bug reports.\n\nNew: Voice notes \u2014 record straight into a board card or the Notes panel, name them, play and scrub them back\nNew: Sample project \u201cMonsoon Letters\u201d opens on first launch, and any time from Help or Settings\nNew: Bug reports can include screenshots or log files, and say how bad the problem is\nChanged: The first-use tour is shorter and clearer\nChanged: Sound on boards and in Notes uses a small player with a draggable playhead\nChanged: About now says Built by Cutcult Studios LLP\nChanged: Branded installers; the Windows app icon fills its tile\nFixed: Picking another lesson no longer closes the video tour, and the video is bigger\nFixed: Help, About and Report a bug work before a project is open\nFixed: Playing sound on a board no longer doubles up after you select another card",
+  "pub_date": "2026-11-21T17:12:01Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDBjeGdxSThCVEJhY2MxeG1nL3hvZmxtNXpJSm9nOVVZZGFiTFVaOS9iSEI3TVQ5V2gyVldoNWpnNlplN3NPb0J3TDhQdy9kTEJOZy9lbXlVRFBSa25NemQrTmFBYkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjE0NDUwCWZpbGU6VW5kZXJuZWF0aC5hcHAudGFyLmd6CXZlcnNpb246MC45LjYKNGkyeExNNzRhSHpRczZ2OERGMXhNWG1OK3krcVRFWDdwdGFIdFM3N2tUM3dORVNPNGlCbkprM3BFTHlzMzhGYkZOM1hHZVc3cXZmQlJqUUlSUlJ3Q0E9PQo=",
-      "url": "https://cdn.jsdelivr.net/gh/thesouthwindin/working-title-releases@v0.9.6/updates/Underneath-0.9.6-macOS-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDBjeGdxSThCVExMRUNMVzI0TS9mdGJXNkF3QlJwZ1VTa1d0bkFFcitWMFliOUQ3dHYyOFY0S1FxWmplWG1ucXI4SU1ZQllja1RCbkVlYS9nTGQyNytCWkRhakRUeFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjgxMDQ2CWZpbGU6VW5kZXJuZWF0aC5hcHAudGFyLmd6CXZlcnNpb246MC45LjcKdnFtc0grVTU1VjY2SURnWlF0dzRVMi8wanBVTDIxaTZKVGRheDMvd2F0WkVaRzMyc3BVSFVCZGRQdHd0UUdlSFJHeHQ4ZG9YQjhUbUppUEQwb1N6QWc9PQo=",
+      "url": "https://cdn.jsdelivr.net/gh/thesouthwindin/working-title-releases@v0.9.7/updates/Underneath-0.9.7-macOS-aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDBjeGdxSThCVEZJYVNibmpKeDBuWmpUeG5RYjhEWDJjSjloNS9sZXpsR1o2anVNOVJNSkFpUGdtZE8xdXVJenlLdXZ2RHpWYVgrMDYrUmZ4UWxmOHF3MzU3NFcrWUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjE0NTIxCWZpbGU6VW5kZXJuZWF0aC5hcHAudGFyLmd6CXZlcnNpb246MC45LjYKT3VhRkMrU0lxRGpmZXZocnU1azAzQzE3TmJWYmpadm4vcyt0WnJRNDRmMVlLNUdueWRzZkVpY3krN0tGQXc5WUlGd2Rjay9xVXVtTDdjSENoQmVBRHc9PQo=",
-      "url": "https://cdn.jsdelivr.net/gh/thesouthwindin/working-title-releases@v0.9.6/updates/Underneath-0.9.6-macOS-x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDBjeGdxSThCVEFqVG5Kd3BrZmxNNzg2Myswdk54cURDZ2VSbDlQZlhsL20wVVRRd2w1dGREZW5NTHdWNE5HMEZMb0xBdFp5ejYxbFA2cXRXclBQNTNkWjNwV0xTY2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjgxMTE2CWZpbGU6VW5kZXJuZWF0aC5hcHAudGFyLmd6CXZlcnNpb246MC45LjcKdng4RDVZQ1VHRUJjVVdaMHk2R0pUKzZCSzlWSDlBUElIdVlWbDdmZkxnS1Bpc0cwSHM5dW1VVk50KzhiWGZIckxlNjR5K3FkZStlczdPUll3L2NSQ2c9PQo=",
+      "url": "https://cdn.jsdelivr.net/gh/thesouthwindin/working-title-releases@v0.9.7/updates/Underneath-0.9.7-macOS-x86_64.app.tar.gz"
     }
   }
 }
