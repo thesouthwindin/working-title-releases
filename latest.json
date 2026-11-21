@@ -12,8 +12,8 @@
       "url": "https://cdn.jsdelivr.net/gh/thesouthwindin/working-title-releases@v0.9.7/updates/Underneath-0.9.7-macOS-x86_64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDBjeGdxSThCVENHN1NJVWdaM085ejEzS3pzcG4yWTRKTTFrS0tlck9nazRRVUVUdFVEVDU0aFk1SUN4Q0dScjcxZ2JJL29teU5vampIQXJrTmJpN1oyNHRoYk5PamdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjgyNjc2CWZpbGU6VW5kZXJuZWF0aF8wLjkuN194NjQtc2V0dXAuZXhlCjZqVGtIUFBxSmQ0VTVsMlRzYzA5dHdhUThveTRHOWVGUy9FVVdEeDBEVUlWeWZMckkxd25GVEU0Lzc2SHNxZzA3RFpIdVRKM3VQK3lBOEtsNDhYS0FRPT0K",
-      "url": "https://cdn.jsdelivr.net/gh/thesouthwindin/working-title-releases@main/updates/Underneath_0.9.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDBjeGdxSThCVEJQUGJ1YnZZSXNzckxTdHpySDFNNnVDWHdXRlI1NEVSSmtRc2I5K254L3dwaGVENHZyeUZHa3E4N1M4cTZyNWhlRkRYSTdrL0gzaThSS0pHSDZRdndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjgzMTMzCWZpbGU6VW5kZXJuZWF0aF8wLjkuN194NjQtc2V0dXAuZXhlClZ6VXVvOUlNMWVHaXA0VWhrN1drczd1MFVabVg0WlhNN1BMeFg4VFhaUGlFa0hUOTkvQVFOeE51LzRNZEwyUWIxNkxWZzVld29YVXZJd0c0dFIyWENnPT0K",
+      "url": "https://github.com/thesouthwindin/working-title-releases/releases/download/v0.9.7/Underneath_0.9.7_x64-setup.exe"
     }
   }
 }
