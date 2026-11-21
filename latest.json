@@ -10,6 +10,10 @@
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDBjeGdxSThCVEFqVG5Kd3BrZmxNNzg2Myswdk54cURDZ2VSbDlQZlhsL20wVVRRd2w1dGREZW5NTHdWNE5HMEZMb0xBdFp5ejYxbFA2cXRXclBQNTNkWjNwV0xTY2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjgxMTE2CWZpbGU6VW5kZXJuZWF0aC5hcHAudGFyLmd6CXZlcnNpb246MC45LjcKdng4RDVZQ1VHRUJjVVdaMHk2R0pUKzZCSzlWSDlBUElIdVlWbDdmZkxnS1Bpc0cwSHM5dW1VVk50KzhiWGZIckxlNjR5K3FkZStlczdPUll3L2NSQ2c9PQo=",
       "url": "https://cdn.jsdelivr.net/gh/thesouthwindin/working-title-releases@v0.9.7/updates/Underneath-0.9.7-macOS-x86_64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDBjeGdxSThCVENHN1NJVWdaM085ejEzS3pzcG4yWTRKTTFrS0tlck9nazRRVUVUdFVEVDU0aFk1SUN4Q0dScjcxZ2JJL29teU5vampIQXJrTmJpN1oyNHRoYk5PamdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjgyNjc2CWZpbGU6VW5kZXJuZWF0aF8wLjkuN194NjQtc2V0dXAuZXhlCjZqVGtIUFBxSmQ0VTVsMlRzYzA5dHdhUThveTRHOWVGUy9FVVdEeDBEVUlWeWZMckkxd25GVEU0Lzc2SHNxZzA3RFpIdVRKM3VQK3lBOEtsNDhYS0FRPT0K",
+      "url": "https://cdn.jsdelivr.net/gh/thesouthwindin/working-title-releases@main/updates/Underneath_0.9.7_x64-setup.exe"
     }
   }
 }
